@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import ReactDOM from 'react-dom';
 
 const initialState = {
   sunglasses: { type: "Sunglasses", value: "Red", visible: false },
